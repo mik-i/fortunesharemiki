@@ -9,5 +9,5 @@ elif n == 1:
 else:
   unsei = "shokichi_小吉"
 
-print(unsei)
-print(uranaisyuryo_占い終了)
+print("あなたの今日の運勢は \"" + unsei + "\" です")
+print("uranaisyuryo_占い終了")
